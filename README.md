@@ -1,6 +1,6 @@
 # Asset_Stacks
 
-### Asset_Stacks is a blockchain-based peer-to-peer lending platform that allows ordinary people to obtain loans without the inconvenience of dealing with banks or local lenders, and eliminates the cumbersome screening and paperwork procedures. :bank:
+### Asset_Stacks is a blockchain-based peer-to-peer lending platform that allows ordinary people to obtain loans without the inconvenience of dealing with banks or local lenders, and eliminates the cumbersome screening and paperwork procedures. :moneybag:
 <p align ="center">
 <img src ="images/landing_page.png">        
 </p>
